@@ -69,6 +69,9 @@ You can customize the application by modifying the following:
 
 Ensure these dependencies are installed using `pip` before running the application.
 
+![240704_16h46m37s_screenshot](https://github.com/Kuttykishorekk/Dog-Identifier/assets/152392048/852d6b66-2e3a-484b-bab4-19c1bb5f5f12)
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
